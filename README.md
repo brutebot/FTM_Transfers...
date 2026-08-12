@@ -2,7 +2,7 @@
 
 Use this uploaded image as the primary visual reference for the website design. Recreate the overall layout, visual hierarchy, dark premium aesthetic, navigation, cards, player sections, charts, spacing, and responsive structure. Do not simply place the image on the website; actually build the interface as functional React components.
 
-This project was built with [Lovable](https://lovable.dev).
+
 
 ## Build with Lovable
 
